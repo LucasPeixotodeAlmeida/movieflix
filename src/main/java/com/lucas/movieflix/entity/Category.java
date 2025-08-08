@@ -5,10 +5,11 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter
-@Setter
+
 @Entity
 @Table(name = "category")
+@Getter
+@Setter
 public class Category {
 
     @Id
@@ -17,5 +18,6 @@ public class Category {
 
     @Column(length = 100, nullable = false)
     private String name;
+
 
 }

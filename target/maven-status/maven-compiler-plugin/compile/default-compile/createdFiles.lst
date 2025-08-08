@@ -1,0 +1,5 @@
+com\lucas\movieflix\service\CategoryService.class
+com\lucas\movieflix\MovieflixApplication.class
+com\lucas\movieflix\controller\CategoryController.class
+com\lucas\movieflix\repository\CategoryRepository.class
+com\lucas\movieflix\entity\Category.class
