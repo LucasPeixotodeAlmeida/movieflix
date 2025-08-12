@@ -1,5 +1,8 @@
 C:\projetos\movieflix\src\main\java\com\lucas\movieflix\controller\CategoryController.java
+C:\projetos\movieflix\src\main\java\com\lucas\movieflix\controller\request\CategoryRequest.java
+C:\projetos\movieflix\src\main\java\com\lucas\movieflix\controller\response\CategoryResponse.java
 C:\projetos\movieflix\src\main\java\com\lucas\movieflix\entity\Category.java
+C:\projetos\movieflix\src\main\java\com\lucas\movieflix\mapper\CategoryMapper.java
 C:\projetos\movieflix\src\main\java\com\lucas\movieflix\MovieflixApplication.java
 C:\projetos\movieflix\src\main\java\com\lucas\movieflix\repository\CategoryRepository.java
 C:\projetos\movieflix\src\main\java\com\lucas\movieflix\service\CategoryService.java

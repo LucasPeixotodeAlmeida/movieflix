@@ -1,5 +1,10 @@
+com\lucas\movieflix\entity\Category$CategoryBuilder.class
+com\lucas\movieflix\controller\response\CategoryResponse$CategoryResponseBuilder.class
 com\lucas\movieflix\service\CategoryService.class
 com\lucas\movieflix\MovieflixApplication.class
 com\lucas\movieflix\controller\CategoryController.class
 com\lucas\movieflix\repository\CategoryRepository.class
+com\lucas\movieflix\controller\request\CategoryRequest.class
 com\lucas\movieflix\entity\Category.class
+com\lucas\movieflix\mapper\CategoryMapper.class
+com\lucas\movieflix\controller\response\CategoryResponse.class
